@@ -2,3 +2,5 @@
 dmenu
 dmenu_run
 stest
+result
+compile_commands.json
